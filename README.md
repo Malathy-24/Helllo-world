@@ -1,2 +1,5 @@
-# Helllo-world
-This repository contains program for printing hello world in java
+class HelloWorld {
+    public static void main( String []args ) {
+        System.out.println( "Hello World!" );
+    }
+}
